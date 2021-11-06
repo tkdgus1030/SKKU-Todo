@@ -1,0 +1,60 @@
+p {
+    color: orange; /* or #ff0000 */
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    }
+#courses li {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    background: #2196F3;
+    color: white;
+    font-weight: bold;
+    }
+.cats {
+    color: orange; /* or #ff0000 */
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 15px;
+    }
+body {
+    background: #eeeeee;
+    }
+    #wrapper {
+    width: 720px;
+    background: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+body {
+    font-family: "Segoe UI";
+    }
+    h1 {
+    text-align: center;
+    margin-top: 0px;
+    }
+img {
+    border-radius: 12px;
+    }
+    h2 {
+    border-left: 3px solid orange;
+    padding-left: 5px;
+    }
+    a {
+    color: steelblue;
+    }
+    a:visited {
+    color: darkblue;
+    }
